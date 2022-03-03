@@ -80,6 +80,8 @@ public class InvariantDeviceProfile implements OnSharedPreferenceChangeListener 
 
     private static final float ICON_SIZE_DEFINED_IN_APP_DP = 48;
 
+
+    public static final String KEY_WORKSPACE_LOCK = "pref_workspace_lock";
     public static final String KEY_SHOW_DESKTOP_LABELS = "pref_desktop_show_labels";
     public static final String KEY_SHOW_DRAWER_LABELS = "pref_drawer_show_labels";
     public static final String KEY_WORKSPACE_EDIT = "pref_workspace_edit";
